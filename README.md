@@ -1,6 +1,6 @@
 <img align="center" alt="MasterHead" width="400" src="https://github.com/GanuGanesh123/Car-Rental-Ststem-using-C--/blob/main/SD.png">
 <h1 align="center">Hi 👋, I'm Sai Sri Ganesh Putsala</h1>
-<h3 align="center">A passionate Full Stack Software Engineer</h3>
+<h3 align="center">A passionate Full Stack Machine Learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
