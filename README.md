@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Software Development, Machine Learning**
 
-- 📫 How to reach me **ohy13@txstate.edu**
+- 📫 How to reach me **saiganesh.putsala@gmail.com**
 
 - ⚡ Fun fact **I am Ambivert and gourmet**
 
