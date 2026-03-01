@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Neural Network Project**
+- 🔭 I’m currently working on **Multi-Agenti_React_Agents**
 
-- 🌱 I’m currently learning **Pysark, GCP**
+- 🌱 I’m currently personal project includes helps in **Payment Reconcolation, Code genaration, chatbot communication**
 
 - 💬 Ask me about **Software Development, Machine Learning**
 
